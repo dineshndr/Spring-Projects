@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df9f8081-56ea-4f45-a644-c12547a99dbf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../..//DineshNarapareddy-main/ServletEx/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../..//DineshNarapareddy-main/ServletEx/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../..//DineshNarapareddy-main/ServletEx/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../..//DineshNarapareddy-main/ServletEx/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../..//DineshNarapareddy-main/ServletEx/src/main/java/org/example/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../..//DineshNarapareddy-main/ServletEx/src/main/java/org/example/HelloServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../..//JavaScript_projects/mongoose/sample.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../..//Spring/Spring Web/JobApp/JobApp-React and Spring/src/main/java/com/example/jobapp/JobApp/Model/JobPost.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../..//Spring/Spring Web/JobApp/JobApp-React and Spring/src/main/java/com/example/jobapp/JobApp/Model/JobPost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../..//Spring/Spring Web/SpringBootWeb1/src/main/webapp/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../..//Spring/Spring Web/SpringBootWeb1/src/main/webapp/views/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../..//Spring/Spring Web/SpringBootWeb1/src/main/webapp/views/result.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../..//Spring/Spring Web/SpringBootWeb1/src/main/webapp/views/result.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../..//Users/dines/Job-App-React-Spring/React-UI/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../..//Users/dines/Job-App-React-Spring/React-UI/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../..//Users/dines/Job-App-React-Spring/React-UI/db.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../..//Users/dines/Job-App-React-Spring/React-UI/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../..//Users/dines/Job-App-React-Spring/React-UI/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../..//Users/dines/Job-App-React-Spring/React-UI/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../..//Users/dines/Job-App-React-Spring/React-UI/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../..//Users/dines/Job-App-React-Spring/React-UI/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../..//Users/dines/Job-App-React-Spring/React-UI/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../..//Users/dines/Job-App-React-Spring/React-UI/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../..//Users/dines/Job-App-React-Spring/React-UI/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../..//Users/dines/Job-App-React-Spring/React-UI/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../..//Users/dines/Job-App-React-Spring/React-UI/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../..//Users/dines/Job-App-React-Spring/React-UI/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../..//Users/dines/Job-App-React-Spring/React-UI/src/components/AllPosts.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../..//Users/dines/Job-App-React-Spring/React-UI/src/components/Create.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../..//Users/dines/Job-App-React-Spring/React-UI/src/components/Edit.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../..//Users/dines/Job-App-React-Spring/React-UI/src/components/Navbar.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../..//Users/dines/Job-App-React-Spring/React-UI/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../..//Users/dines/Job-App-React-Spring/React-UI/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../..//Users/dines/Job-App-React-Spring/React-UI/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../..//Users/dines/Job-App-React-Spring/React-UI/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../..//Users/dines/Job-App-React-Spring/React-UI/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2hthxKPtwlrpKzTMhCdO63y0BDI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Spring/Spring-JDBC",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df9f8081-56ea-4f45-a644-c12547a99dbf" name="Changes" comment="" />
+      <created>1718419525886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718419525886</updated>
+    </task>
+    <servers />
+  </component>
+</project>
