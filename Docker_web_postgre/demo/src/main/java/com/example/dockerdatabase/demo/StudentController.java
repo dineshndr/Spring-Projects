@@ -11,5 +11,6 @@ public class StudentController {
        return List.of(new Student(1,"Dinesh",26),
         new Student(2, "Divya", 28),
         new Student(3,"damu", 25));
+       new Student(3,"dinesh", 26)
     }
 }
