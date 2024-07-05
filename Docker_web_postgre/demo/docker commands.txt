@@ -1,0 +1,48 @@
+docker commands
+
+
+docker pull image-name  // pull from docker hub
+docker run image-name // run the image
+docker ps // show the containers that are running
+docker ps -a // shows all the containers that are running and previously run
+docker images
+docker images -a
+
+docker create //create container from image
+
+or 
+docker search image-name //will give a list of images that match image name
+
+docker pull image-name
+docker images
+docker ps -a
+docker create name //create container
+docker start "your wish"//name for container
+docker stop container-id/container-name
+
+docker hub - repository that have all images (both public and private)
+
+
+//steps to interact with docker in real time 
+
+
+1.need docker client to connect with docker
+2.docker is connected to registry.
+2. docker contains
+   * Daemon - responsible to run container
+   * network -config
+    * Images
+    *containers
+
+Have an API between docker cleitn and daemon and we will interact with daemon to perfrom pull, push and all other operations
+
+
+refer to C:\Spring\Docker_web_postgre\demo
+
+
+
+
+****Run Java Application in Docker ****
+
+
+Jshell - run commands
