@@ -34,7 +34,7 @@ docker hub - repository that have all images (both public and private)
     * Images
     *containers
 
-Have an API between docker cleitn and daemon and we will interact with daemon to perfrom pull, push and all other operations
+Have an API between docker client and daemon and we will interact with daemon to perfrom pull, push and all other operations
 
 
 refer to C:\Spring\Docker_web_postgre\demo
@@ -45,4 +45,52 @@ refer to C:\Spring\Docker_web_postgre\demo
 ****Run Java Application in Docker ****
 
 
-Jshell - run commands
+Jshell - run commands like cli for java
+with this we run container
+
+
+docker search open-jdk
+docker pull open-jdk:22-jdk
+docker run -it open-jdk:22-jdk(interactive run) we can use -d (to run detach mode and in background)
+//after docker run -it open-jdk:22-jdk(interactive run) we can run jdk in interactive manner
+ 
+
+
+
+***to Run our java application with container***
+mvn package (run this command to get jar file of our application)
+java -jar target/rest-demo.jar (this will run our application)
+
+***to run with container***
+
+docker exec "container-id/container-name" ls -a (to list all folders of jdk)
+
+***we can use temp director in container to copy from local target folder*** 
+
+docker cp target/rest-demo.jar "container name":/tmp(copies from our local to tmp).
+
+*** now we got the jar and jdk in container, next create image***
+docker commit --change'CMD'["java","-jar", "/tmp/rest-demo.jar"]"container name" telusko/rest-demo:v2
+
+(Here we created container with v2 tag and used --change 'CMD' to change default running of v1 container that will run jshell)
+(So every time it will run Java,-jar/location when we use docker run)
+***Now the application will be running on docker port 8080***
+To change it to machine port
+
+docker run -p 8080:8080 telusko/rest-demo:v2(now it will run in local machine 8080 port)
+
+now if we push, it will run in any machine  (TADA!!!!!)
+
+
+
+
+different way to run java application
+\\\\\NOW INSTEAD OF ALL THESE HE JUST TOLD TO CREATE A DOCKER FILE IN PROJECT\\\\\
+
+FROM OpenJDK:22-jdk
+ADD sourcepath destination-name
+ENTRYPOINT ["java", "-jar","/rest-demo.jar"]
+
+
+\\\TO CREATE A IMAGE\\\ docker build -t telusko/rest-demo:v3 . 
+  
