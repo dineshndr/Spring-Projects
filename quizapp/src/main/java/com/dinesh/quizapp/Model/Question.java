@@ -11,7 +11,7 @@ import lombok.NoArgsConstructor;
 
 public class Question {
     @Id
-    //private Integer Id;
+    private Integer Id;
     @Column(name = "question_title")
     private String questionTitle;
 
