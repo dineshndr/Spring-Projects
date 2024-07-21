@@ -1,10 +1,7 @@
 package com.dinesh.quizapp.controller;
 
 import com.dinesh.quizapp.Model.Question;
-import com.dinesh.quizapp.service.Questions_service;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpStatus;
-import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.*;
